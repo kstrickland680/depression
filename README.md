@@ -15,6 +15,8 @@ There may be some relation of school attendance as a protective factor. Most ele
 
 With the XGBoost model, no variable by itself has a strong correlation with depression. However, some of the variables that do rank highest are asset_phone, med expenses, own farm, fs_adwholed, not having mpesa, and having asset savings. 
 
+![picture](https://github.com/kstrickland680/depression/blob/main/images/parent.JPG)
+![picture](https://github.com/kstrickland680/depression/blob/main/images/depassets.JPG)
 
 ## Models
 

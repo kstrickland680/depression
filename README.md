@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes depression data from a survey, found here: https://www.kaggle.com/francispython/b-depression
 
-I explore the data looking for correlations between various data points and depression. Major depression disorder is among the most prevelant mental disorders in the Unitd States. It is diagnosed when a person experiences depressed mood for at least 2 weeks, combined with certain specfied symptoms which shows problems with biological functioning and ability to enjoy life.
+I explore the data looking for correlations between various data points and depression. Major depression disorder is among the most prevelant mental disorders in the United States. It is diagnosed when a person experiences depressed mood for at least 2 weeks, combined with certain specfied symptoms which shows problems with biological functioning and ability to enjoy life.
 
 ## Business Problem
 
